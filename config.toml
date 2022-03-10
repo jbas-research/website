@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://jbas-research.github.io/website/'
 languageCode = 'en'
 title = 'JBas'
 
